@@ -20,7 +20,7 @@ We develop autonomous analyst teams that research, analyze, and publish financia
 
 ## Tech Stack
 
-Built on [Paperclip](https://paperclip.sh) + [Hermes](https://hermes.sh) agent platform, powered by [DeepInfra](https://deepinfra.com) for model inference, deployed on AWS (ECS Fargate, RDS, EFS, CloudFront).
+Built on [Paperclip](https://paperclip.sh) + [Hermes](https://hermes.sh) agent platform, powered by [OpenRouter](https://openrouter.ai) for model inference, deployed on AWS (ECS Fargate, RDS, EFS, CloudFront).
 
 ## Links
 
